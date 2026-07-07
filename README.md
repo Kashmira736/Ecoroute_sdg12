@@ -1,3 +1,10 @@
+## 🚀 Live Application
+
+Experience the live **EcoRoute Agentic Logistics System** cloud deployment directly in your browser:
+* [🌐 Live Streamlit Application](https://ecoroutesdg12-mxkjkulqtkvfgr7fj9falh.streamlit.app/)
+
+---
+
 ## 📂 Project Documentation
 
 * [📄 Project Concept Note](./documentation/EcoRoute_Concept_Note.pdf)
