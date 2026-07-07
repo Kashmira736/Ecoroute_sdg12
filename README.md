@@ -9,5 +9,5 @@ Experience the live **EcoRoute Agentic Logistics System** cloud deployment direc
 
 * [📄 Project Concept Note](./documentation/EcoRoute_Concept_Note.pdf)
 * [📋 Lean Canvas Framework](./documentation/EcoRoute_Lean_Canvas.pdf)
-* [📊 Pitch Deck Presentation](./documentation/EcoRoute_Agent_Presentation(1).pdf)
+* [📊 Powerpoint Presentation](./documentation/EcoRoute_Agent_Presentation%20(1).pdf)
 * [📸 Application Screenshots](./documentation/screenshots_ecoroute.pdf)
